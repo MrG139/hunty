@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/onboarding-tour",
+    "feature/leaderboard-updates",
+    "feature/seasonal-leaderboard-resets",
+    "fix/654-optimize-tailwind-css-output",
+    "fix/893-ci-coverage-for-packages",
+    "hunty2",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/onboarding-tour": "main",
+    "feature/leaderboard-updates": "main",
+    "feature/seasonal-leaderboard-resets": "main",
+    "fix/654-optimize-tailwind-css-output": "main",
+    "fix/893-ci-coverage-for-packages": "main",
+    "hunty2": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/onboarding-tour",
+    "feature/leaderboard-updates",
+    "feature/seasonal-leaderboard-resets",
+    "fix/654-optimize-tailwind-css-output",
+    "fix/893-ci-coverage-for-packages",
+    "hunty2",
+    "origin"
+  ]
+}
